@@ -24,7 +24,7 @@
 └────────────────────────────────────────────────────────────┘
 ```
 
-Sou graduanda Análise e Desenvolvimento de Sistemas na PUC Minas e estou construindo minha trajetória na tecnologia, com foco especial no universo dos dados.
+Sou graduanda  em Análise e Desenvolvimento de Sistemas na PUC Minas e estou construindo minha trajetória na tecnologia, com foco especial no universo dos dados.
 
 Atualmente, estou aprofundando meus conhecimentos em programação, bancos de dados e análise de dados, conectando minha formação acadêmica a estudos independentes e projetos práticos.
 
