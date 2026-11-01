@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050816,40:101B3D,80:5426A8,100:00E5FF&amp;height=210&amp;section=header&amp;text=MARINA%20BONOMO&amp;fontSize=42&amp;fontColor=00E5FF&amp;fontAlignY=38&amp;desc=SYSTEM%20ONLINE%20%7C%20TECH%20%26%20DATA&amp;descSize=13&amp;descAlignY=60" alt="Banner de Marina Bonomo" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:050816,45:101B3D,100:5426A8&amp;height=220&amp;section=header&amp;text=MARINA%20BONOMO&amp;fontSize=42&amp;fontColor=00E5FF&amp;fontAlignY=38&amp;animation=fadeIn" alt="Banner de Marina Bonomo" />
+
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=500&amp;size=18&amp;duration=3000&amp;pause=900&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Initializing+Marina%27s+GitHub...;ADS+Student+%7C+PUC+Minas;Exploring+Data+%7C+Code+%7C+Technology;Future+Data+Engineer;Building.+Learning.+Evolving." alt="Typing animation" />
 
